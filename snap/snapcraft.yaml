@@ -34,6 +34,9 @@ platforms:
   ppc64el:
     build-on: [ppc64el]
     build-for: [ppc64el]
+  riscv64:
+    build-on: [riscv64]
+    build-for: [riscv64]
 
 apps:
   terminal-parrot:
